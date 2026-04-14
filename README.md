@@ -1,17 +1,17 @@
-# 🎯 Event Prediction Project
+#  Event Prediction Project
 
 This project uses Machine Learning (Random Forest) to predict events based on input data.
 
 ---
 
-## 📌 Features
+##  Features
 - Predicts events using trained ML model
 - User-friendly interface using Streamlit
 - Fast and accurate predictions
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - Scikit-learn
@@ -19,7 +19,7 @@ This project uses Machine Learning (Random Forest) to predict events based on in
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Install requirements:
 pip install -r requirements.txt
 
@@ -28,7 +28,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - app.py → Streamlit frontend
 - model.py → ML model training
 - model.pkl → Trained model
@@ -36,12 +36,13 @@ streamlit run app.py
 
 ---
 
-## 📸 Output
-(Add screenshots here)
+##  Output
+<img width="1920" height="1016" alt="streamlitUI" src="https://github.com/user-attachments/assets/25cd0c58-4f4a-4e57-be5c-34d36a0ac112" />
+
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Improve UI design
 - Add more data for better accuracy
 - Deploy online
